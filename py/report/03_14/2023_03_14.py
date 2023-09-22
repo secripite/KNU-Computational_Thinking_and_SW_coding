@@ -1,0 +1,6 @@
+x= int(input('x를 입력하시오 :'))
+y= int(input('y를 입력하시오 :'))
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
